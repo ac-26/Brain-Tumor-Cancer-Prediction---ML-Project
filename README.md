@@ -1,5 +1,3 @@
-# Brain-Tumor-Cancer-Prediction---ML-Project
-
 # Brain Tumor Cancer Prediction
 
 This project implements a machine learning model for predicting brain tumor malignancy using various classification algorithms. The goal is to accurately classify tumors as malignant or benign based on provided features.
